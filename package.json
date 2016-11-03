@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bunyan": "^1.8.4",
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "co-limiter": "^1.0.3",
+    "lodash": "^4.16.6"
+  }
+}
